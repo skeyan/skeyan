@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <details>
 <summary>🔧Languages and Tools </summary>
   <li>HTML/CSS</li>
-  <li>JavaScript, Node.js, React, Redux, Bootstrap/li>
+  <li>JavaScript, Node.js, React, Redux, Bootstrap</li>
   <li>C++</li>
   <li>Python</li>
   <li>Some C#</li>
