@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ## Contact Me! 📫
 - Portfolio: http://skeyan.github.io/
-- LinkedIn: https://www.linkedin.com/in/sk-evayan/
+- LinkedIn: https://www.linkedin.com/in/sk-evayan/ Add a message letting me know you found me from Github!
 - itch.io: https://masotzhen.itch.io/
