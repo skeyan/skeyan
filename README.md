@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <details>
 <summary>🌱Currently... </summary>
   <li>making art for a small game, "Business as Usual," for Waffle Games 2021</li>
-  <li>learning Swift</li>
+  <li>learning Swift with the UIKit</li>
   <li>anticipating my summer internship with LinkedIn</li>
 </details>
 
