@@ -20,8 +20,9 @@ Here are some ideas to get you started:
   
 <details>
 <summary>🌱Currently... </summary>
-  <li>pursuing an EA certificate</li>
-  <li>doing my summer internship with LinkedIn</li>
+  <li>creating a semester-long thesis RPG game</li>
+  <li>learning about game engines</li>
+  <li>improving my skills in web development</li>
 </details>
 
 <details>
