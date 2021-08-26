@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <details>
 <summary>🔧Languages and Tools </summary>
-  <li>HTML/CSS</li>
-  <li>JavaScript, Node.js, React, Redux, Bootstrap</li>
+  <li>HTML/CSS/SCSS</li>
+  <li>JavaScript, Ember.js, Node.js, React, Redux, Bootstrap</li>
   <li>C++</li>
   <li>Python</li>
   <li>Some C#</li>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <li>more web dev</li>
   <li>game dev in Unity</li>
   <li>anatomy and 2D illustratrations and animation</li>
-  <li>project and product management</li>
+  <li>UI/UX design and research</li>
 </details>
 
 ## Contact Me! 📫
