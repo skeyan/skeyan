@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 😄About Me
-  I'm Eva, a junior majoring in both C.S. and Emerging Media (pronouns: she/they).
+  I'm Eva, a senior majoring in both C.S. and Emerging Media (pronouns: she/they).
   I'm based in New York, NY. I have a passion for interactive media and design!
   Some of my hobbies are roleplaying games, music, and illustrations. 
   
