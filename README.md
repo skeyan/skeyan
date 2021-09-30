@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>⚡Interested in learning... </summary>
-  <li>more web dev</li>
-  <li>game dev in Unity</li>
+  <li>good organization for game development</li>
   <li>anatomy and 2D illustratrations and animation</li>
   <li>UI/UX design and research</li>
 </details>
