@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <details>
 <summary>🌱Currently... </summary>
   <li>creating a semester-long thesis RPG game</li>
-  <li>learning about game engines</li>
-  <li>improving my skills in web development</li>
+  <li>implementing a basic game engine with C++, glfw, OpenGL</li>
+  <li>improving my skills in UI/UX design with Develop for Good</li>
 </details>
 
 <details>
