@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 😄About Me
-  I'm Eva, a senior majoring in both C.S. and Emerging Media (pronouns: she/they).
+  I'm Eva, a software engineer.
   I'm based in New York, NY. I have a passion for interactive media and design!
+  Currently working as a SWE at LinkedIn.
   Some of my hobbies are roleplaying games, music, and illustrations. 
   
 <details>
@@ -38,7 +39,8 @@ Here are some ideas to get you started:
 
 <details>
 <summary>⚡Interested in learning... </summary>
-  <li>good organization for game development</li>
+  <li>full-stack development</li>
+  <li>game production & dev</li>
   <li>anatomy and 2D illustratrations and animation</li>
   <li>UI/UX design and research</li>
 </details>
@@ -47,4 +49,3 @@ Here are some ideas to get you started:
 - Portfolio: http://skeyan.github.io/
 - LinkedIn: https://www.linkedin.com/in/sk-evayan/ Add a message letting me know you found me from Github!
 - itch.io: https://masotzhen.itch.io/
-- Art Things: https://evayan27.myportfolio.com/ 
