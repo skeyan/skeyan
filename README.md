@@ -16,36 +16,32 @@ Here are some ideas to get you started:
 #### 😄About Me
   I'm Eva, a software engineer.
   I'm based in New York, NY. I have a passion for interactive media and design!
+  I am looking for opportunities where I can expand my technical skills while contributing to social good.
   Currently working as a SWE at LinkedIn.
   Some of my hobbies are roleplaying games, music, and illustrations. 
-  
-<details>
-<summary>🌱Currently... </summary>
-  <li>creating a semester-long thesis RPG game</li>
-  <li>animating for a pixel fighting game in a small studio</li>
-  <li>implementing a basic game engine with C++, glfw, OpenGL</li>
-  <li>improving my skills in UI/UX design with Develop for Good</li>
-</details>
 
 <details>
 <summary>🔧Languages and Tools </summary>
   <li>HTML/CSS/SCSS</li>
-  <li>JavaScript, Ember.js, Node.js, React, Redux, Bootstrap</li>
-  <li>C++</li>
-  <li>Python</li>
+  <li>JavaScript, Node.js, TypeScript</li>
+  <li>Ember.js, React.js, Redux</li>
+  <li>GraphQL</li>
+  <li>Some Java</li>
+  <li>Some C++</li>
+  <li>Some Python</li>
   <li>Some C#</li>
   <li>Some Swift</li>
 </details>
 
 <details>
-<summary>⚡Interested in learning... </summary>
-  <li>full-stack development</li>
-  <li>game production & dev</li>
-  <li>anatomy and 2D illustratrations and animation</li>
+<summary>⚡Interested in learning and pursuing: </summary>
+  <li>Full-stack development</li>
+  <li>Developing for a cause</li>
+  <li>Game production & dev</li>
   <li>UI/UX design and research</li>
 </details>
 
-## Contact Me! 📫
+## Contact Me At: 📫
 - Portfolio: http://skeyan.github.io/
 - LinkedIn: https://www.linkedin.com/in/sk-evayan/ Add a message letting me know you found me from Github!
 - itch.io: https://masotzhen.itch.io/
