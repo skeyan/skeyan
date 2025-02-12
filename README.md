@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 </details>
 
 ## Contact Me At: 📫
-- Portfolio: http://skeyan.github.io/
+- Portfolio: https://skeyan-dev.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/sk-evayan/ Add a message letting me know you found me from Github!
 - itch.io: https://masotzhen.itch.io/
