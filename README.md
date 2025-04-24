@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   I'm Eva, a software engineer.
   I'm based in New York, NY. I have a passion for interactive media and design!
   I am looking for opportunities where I can expand my technical skills while contributing to social good.
-  Currently working as a Senior SWE at LinkedIn.
+  Currently working as a Senior SWE.
   Some of my hobbies are roleplaying games, music, and illustrations. 
 
 <details>
